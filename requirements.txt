@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+faiss-cpu
+streamlit
+pypdf
+python-dotenv
+chromadb
+sentence-transformers
+python-docx
+duckdb
